@@ -1,26 +1,26 @@
-# Longevity Master 🏃‍♂️
+# OM App 🏃‍♂️
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-17.0+-blue.svg)](https://developer.apple.com/ios/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-green.svg)](https://developer.apple.com/xcode/swiftui/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-A modern habit-tracking iOS app built with SwiftUI and GRDB, designed to help users build and maintain habits that promote long-term health and longevity. Longevity Master focuses on evidence-based habits that contribute to healthy aging and overall well-being.
+A modern habit-tracking iOS app built with SwiftUI and GRDB, designed to help users build and maintain habits that promote long-term health and longevity. OM App focuses on evidence-based habits that contribute to healthy aging and overall well-being.
 
 ## 🚀 Status
 > [!IMPORTANT]
 > This application is currently in its **beta stage** and **testing phase**. Public download links are unavailable at this time as we refine the experience.
 
 
-Build powerful daily habits to extend your lifespan. Longevity Master helps you live longer and feel better with science-based routines for health and wellness.
+Build powerful daily habits to extend your lifespan. OM App helps you live longer and feel better with science-based routines for health and wellness.
 
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/1.png" alt="Longevity Master Screenshot 1" width="200"/>
-  <img src="screenshots/2.png" alt="Longevity Master Screenshot 2" width="200"/>
-  <img src="screenshots/3.png" alt="Longevity Master Screenshot 3" width="200"/>
-  <img src="screenshots/4.png" alt="Longevity Master Screenshot 4" width="200"/>
+  <img src="screenshots/1.png" alt="OM App Screenshot 1" width="200"/>
+  <img src="screenshots/2.png" alt="OM App Screenshot 2" width="200"/>
+  <img src="screenshots/3.png" alt="OM App Screenshot 3" width="200"/>
+  <img src="screenshots/4.png" alt="OM App Screenshot 4" width="200"/>
 
 </div>
 
@@ -81,9 +81,9 @@ Build powerful daily habits to extend your lifespan. Longevity Master helps you 
 
 ### Project Structure
 ```
-LongevityMaster/
+OMApp/
 ├── App/
-│   └── LongevityMasterApp.swift          # App entry point
+│   └── OMAppApp.swift          # App entry point
 ├── Components/
 │   ├── Common/                           # Reusable UI components
 │   │   ├── HabitCardView.swift
@@ -135,13 +135,13 @@ The app is currently in **beta testing**. Stay tuned for the official release!
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/banghuazhao/longevity-master.git
-   cd longevity-master
+   git clone https://github.com/banghuazhao/wellness-app.git
+   cd wellness-app
    ```
 
 2. **Open in Xcode**
    ```bash
-   open LongevityMaster.xcodeproj
+   open OMApp.xcodeproj
    ```
 
 3. **Build and Run**
@@ -200,8 +200,8 @@ This means you can:
 ## 🆘 Support
 
 - **Status**: Currently in Beta Stage & Testing Phase
-- **Issues**: [GitHub Issues](https://github.com/banghuazhao/longevity-master/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/banghuazhao/longevity-master/discussions)
+- **Issues**: [GitHub Issues](https://github.com/banghuazhao/wellness-app/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/banghuazhao/wellness-app/discussions)
 - **Email**: Open an issue for direct contact
 
 ## 🗺️ Roadmap
