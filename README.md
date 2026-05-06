@@ -220,6 +220,6 @@ This means you can:
 
 ---
 
-**Made with ❤️ by [Banghua Zhao](https://github.com/banghuazhao)**
+**Made with ❤️ by [Mouriyan Gandhi](https://github.com/Mouriyan-gandhi)**
 
 *Empowering users to build habits that last a lifetime* 🌟
